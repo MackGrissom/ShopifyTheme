@@ -1,0 +1,55 @@
+{
+	"name": "reacthooks-redux-js-buy",
+	"version": "0.1.0",
+	"author": "Michael Quarne",
+	"private": false,
+	"main": "index.js",
+	"dependencies": {
+		"bootstrap": "4.5.2",
+		"lazysizes": "5.2.2",
+		"popper.js": "1.16.1",
+		"react": "16.13.1",
+		"react-countdown": "2.3.0",
+		"react-dom": "16.13.1",
+		"react-icons": "3.10.0",
+		"react-inner-image-zoom": "1.1.1",
+		"react-modal-image": "2.5.0",
+		"react-notifications": "1.7.2",
+		"react-owl-carousel2": "0.3.0",
+		"react-redux": "7.2.0",
+		"react-rev-slider": "1.0.1",
+		"react-router-dom": "5.2.0",
+		"react-script-tag": "1.1.2",
+		"react-slick": "0.29.0",
+		"react-svg": "11.0.36",
+		"react-tabs": "3.1.1",
+		"redux": "4.0.5",
+		"redux-thunk": "2.3.0",
+		"sass": "^1.63.6",
+		"sharethis-reactjs": "1.6.0",
+		"shopify-buy": "2.11.0",
+		"svg-react-loader": "0.4.6"
+	},
+	"devDependencies": {
+		"react-scripts": "3.4.1"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test --env=jsdom",
+		"eject": "react-scripts eject"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"license": "ISC"
+}
